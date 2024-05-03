@@ -3,9 +3,9 @@ Pre-Processing Storage
 데이터 출처
 https://ecos.bok.or.kr/#/
 
-# utf-8-sig로 읽을것
 
-2015_06 - 2024_02
+
+# 기간 : 2015_06 - 2024_02
 # 취합데이터 목록
 - 지가변동률	
 - KB주택매매가격지수	
